@@ -1,7 +1,7 @@
 # vuemusic
 
-> 先下载并运行NeteaseCloudMusicApi
-> 请以手机端页面打开（网页版转变成手机端时候请刷新一次页面）
+> 先下载并运行NeteaseCloudMusicApi.
+> 请以手机端页面打开（网页版转变成手机端时候请刷新一次页面）.
 ## Build Setup
 
 ``` bash
